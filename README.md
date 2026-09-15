@@ -13,7 +13,7 @@ An educational prototype for binary classification of chest X-rays (**Normal vs.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python 3
 * **Framework:** Streamlit
@@ -39,7 +39,7 @@ Place this file directly into the root folder alongside `app.py`.
 ```text
  your-repo-name/
 ├── 📄 app.py
-└── 📄 chest_xray_model.json   <-- Core model file goes here
+└── 📄 chest_xray_model.json   
 ```
 
 ### 3. Launching the App
